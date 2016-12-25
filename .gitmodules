@@ -4,3 +4,6 @@
 [submodule "MOM6"]
 	path = MOM6
 	url = https://github.com/Jim888888/MOM6.git
+[submodule "icebergs"]
+	path = icebergs
+	url = https://github.com/Jim888888/icebergs.git
