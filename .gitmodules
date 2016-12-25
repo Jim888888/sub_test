@@ -1,3 +1,6 @@
 [submodule "SIS2"]
 	path = SIS2
 	url = https://github.com/Jim888888/SIS2.git
+[submodule "MOM6"]
+	path = MOM6
+	url = https://github.com/Jim888888/MOM6.git
